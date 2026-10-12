@@ -1,0 +1,25 @@
+{
+  "status": "PASS",
+  "observations": 55,
+  "geographies": 11,
+  "years": [
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "unique_keys": true,
+  "complete_grid": true,
+  "missing_values": 0,
+  "numeric_rates": true,
+  "range_check_0_100": true,
+  "source_sha256": "6db5da70bf3d18db8ffaff30416118440859ab522e2b4305df3dd1f607c7656c",
+  "source_release_date": "2026-01-09",
+  "excluded_source_geographies": 68,
+  "suppression_in_scope": false,
+  "imputation": false,
+  "python": "3.12.14",
+  "pandas": "2.2.3",
+  "matplotlib": "3.10.8"
+}

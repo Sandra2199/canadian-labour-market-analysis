@@ -1,0 +1,56 @@
+year,geography,unemployment_rate,year_over_year_change_pp
+2021,Alberta,8.6,
+2022,Alberta,5.8,-2.8
+2023,Alberta,5.9,0.1
+2024,Alberta,7.0,1.1
+2025,Alberta,7.2,0.2
+2021,British Columbia,6.6,
+2022,British Columbia,4.6,-2.0
+2023,British Columbia,5.2,0.6
+2024,British Columbia,5.6,0.4
+2025,British Columbia,6.2,0.6
+2021,Canada,7.5,
+2022,Canada,5.3,-2.2
+2023,Canada,5.4,0.1
+2024,Canada,6.3,0.9
+2025,Canada,6.8,0.5
+2021,Manitoba,6.5,
+2022,Manitoba,4.5,-2.0
+2023,Manitoba,4.9,0.4
+2024,Manitoba,5.4,0.5
+2025,Manitoba,5.9,0.5
+2021,New Brunswick,9.3,
+2022,New Brunswick,7.2,-2.1
+2023,New Brunswick,6.6,-0.6
+2024,New Brunswick,7.0,0.4
+2025,New Brunswick,7.1,0.1
+2021,Newfoundland and Labrador,13.0,
+2022,Newfoundland and Labrador,11.3,-1.7
+2023,Newfoundland and Labrador,9.9,-1.4
+2024,Newfoundland and Labrador,10.0,0.1
+2025,Newfoundland and Labrador,10.1,0.1
+2021,Nova Scotia,8.6,
+2022,Nova Scotia,6.6,-2.0
+2023,Nova Scotia,6.4,-0.2
+2024,Nova Scotia,6.5,0.1
+2025,Nova Scotia,6.6,0.1
+2021,Ontario,8.1,
+2022,Ontario,5.6,-2.5
+2023,Ontario,5.6,0.0
+2024,Ontario,7.0,1.4
+2025,Ontario,7.7,0.7
+2021,Prince Edward Island,9.8,
+2022,Prince Edward Island,7.7,-2.1
+2023,Prince Edward Island,7.2,-0.5
+2024,Prince Edward Island,8.0,0.8
+2025,Prince Edward Island,8.0,0.0
+2021,Quebec,6.1,
+2022,Quebec,4.3,-1.8
+2023,Quebec,4.5,0.2
+2024,Quebec,5.3,0.8
+2025,Quebec,5.6,0.3
+2021,Saskatchewan,6.5,
+2022,Saskatchewan,4.6,-1.9
+2023,Saskatchewan,4.7,0.1
+2024,Saskatchewan,5.4,0.7
+2025,Saskatchewan,5.2,-0.2
